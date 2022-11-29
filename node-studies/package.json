@@ -1,0 +1,26 @@
+{
+  "name": "studies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KendiHashimoto/node-studies.git"
+  },
+  "keywords": [
+    "learning",
+    "nodejs"
+  ],
+  "author": "Kendi Hashimoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KendiHashimoto/node-studies/issues"
+  },
+  "homepage": "https://github.com/KendiHashimoto/node-studies#readme",
+  "devDependencies": {
+    "cfonts": "^3.1.1"
+  }
+}
